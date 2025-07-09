@@ -52,3 +52,15 @@ footer {
     background-color: #8B0000;
     color: white;
 }
+<section id="gallery">
+    <h2>Gallery</h2>
+    <div class="gallery-grid">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Taj_Mahal_in_March_2004.jpg/640px-Taj_Mahal_in_March_2004.jpg" alt="Taj Mahal">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Qutb_Minar.jpg/640px-Qutb_Minar.jpg" alt="Qutub Minar">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hampi_temple.jpg/640px-Hampi_temple.jpg" alt="Hampi">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Khajuraho_group_of_monuments.jpg/640px-Khajuraho_group_of_monuments.jpg" alt="Khajuraho Temples">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ajanta_Caves%2C_Maharashtra%2C_India.jpg/640px-Ajanta_Caves%2C_Maharashtra%2C_India.jpg" alt="Ajanta Caves">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sanchi_Stupa%2C_India.jpg/640px-Sanchi_Stupa%2C_India.jpg" alt="Sanchi Stupa">
+    </div>
+</section>
+
